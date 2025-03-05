@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
               Container(
                 margin: EdgeInsets.only(top: 20, bottom: 40),
                 child: Text(
-                  "     Enjoy\n Your Food",
+                  "     Enjoy\n\n Your Food",
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 25,
