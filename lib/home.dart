@@ -49,7 +49,11 @@ class HomePage extends StatelessWidget {
                 },
                 child: Text(
                   "Get Started",
-                  style: TextStyle(color: Color(0xFF727ABD), fontSize: 25),
+                  style: TextStyle(
+                    color: Color.fromARGB(255, 113, 133, 235),
+                    fontSize: 26,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
               ),
             ],
